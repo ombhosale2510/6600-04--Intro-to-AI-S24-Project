@@ -27,7 +27,7 @@ The project implementation began with `preprocessing.ipynb`, where the raw MRI i
 
 #### Additional Implementations
 * EfficientNet: EfficientNet was implemented on Google Colab due to technical limitations.
-    * Link: The Colab notebook can be accessed [here](https://drive.google.com/file/d/1qdNURatihf_mRYdHcPtvDsPFlU1UGCHs.).
+    * Link: The Colab notebook can be accessed [here](https://drive.google.com/file/d/1qdNURatihf_mRYdHcPtvDsPFlU1UGCHs).
 
  
 ## Additional Resources
